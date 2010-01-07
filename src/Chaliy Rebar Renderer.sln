@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaliy Rebar Renderer", "Chaliy Rebar Renderer\Chaliy Rebar Renderer.csproj", "{2F3402F4-9088-48FC-BAEC-C04943194DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaliy Rebar Renderer Test", "Chaliy Rebar Renderer Test\Chaliy Rebar Renderer Test.csproj", "{8E0D3EC0-B16E-4717-814B-3530B6468591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3402F4-9088-48FC-BAEC-C04943194DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3402F4-9088-48FC-BAEC-C04943194DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3402F4-9088-48FC-BAEC-C04943194DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3402F4-9088-48FC-BAEC-C04943194DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0D3EC0-B16E-4717-814B-3530B6468591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0D3EC0-B16E-4717-814B-3530B6468591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0D3EC0-B16E-4717-814B-3530B6468591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0D3EC0-B16E-4717-814B-3530B6468591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
